@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>jkop</title>
+    <link href="https://jkop-xyz.github.io/gh-blog/feed.xml" rel="self" />
+    <link href="https://jkop-xyz.github.io/gh-blog" />
+    <updated>2025-06-24T12:19:49+02:00</updated>
+    <author>
+        <name>Jakob</name>
+    </author>
+    <id>https://jkop-xyz.github.io/gh-blog</id>
+
+    <entry>
+        <title>test post</title>
+        <author>
+            <name>Jakob</name>
+        </author>
+        <link href="https://jkop-xyz.github.io/gh-blog/test-post.html"/>
+        <id>https://jkop-xyz.github.io/gh-blog/test-post.html</id>
+
+        <updated>2025-06-24T12:19:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test post</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
